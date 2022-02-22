@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief answer to three very great and concerning questions</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29428</idno>
+            <idno type="STC">Wing B4547</idno>
+            <idno type="STC">ESTC R214758</idno>
+            <idno type="EEBO-CITATION">99826833</idno>
+            <idno type="PROQUEST">99826833</idno>
+            <idno type="VID">31242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1844:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief answer to three very great and concerning questions</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and suggested imprint date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Separatists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:31242:1" rendition="simple:additions"/>
+            <head>A Brief Anſwer to three very great and concerning Queſtions.</head>
+            <p>There are at this day three great Queſtions which if they were rightly ſtated, and thoroughly reſolved, they would ſerve very much to confirm the minds of Believers, in an active diſcharge of thoſe duties which the preſent ſeaſon requires from them, or elſe quiet and compoſe their ſpirits if they are called to ſuffer.</p>
+            <p>THe firſt queſtion is concerning the Miniſters of the Goſpel (I mean ſuch as are otherwiſe rightly qualified to preach as being gifted by God,<label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> and called by the people) but are forbid by the <hi>Civil Magiſtrate</hi> to exerciſe that office, the queſtion concerning them is <hi>whether in obedience to the commands of the civil Magiſtrate they are to forbear preaching or not.</hi>
+            </p>
+            <p>
+               <hi>I anſwer, by no means and that,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>1</label>
+            </p>
+            <p>Firſt, from the example of our Saviour and his Apoſtles, who though they were as ſubject to the Law, as we are now, and in<g ref="char:EOLhyphen"/>joyned obedience to all the lawful commands of civil Ma<g ref="char:EOLhyphen"/>giſtrates, yet when ever the civil Authority was abuſed to hinder preaching they did conſtantly refuſe to obey them.</p>
+            <p>Thus our Saviour, who as man <hi>behaved himſelf wiſely</hi>
+               <note n="[a]" place="margin">
+                  <hi>Iſa.</hi> 52.13.</note> and commands all his followers to do ſo, yet in his preaching he did not walk by thoſe rules of ſecreſie and concealment which are now accounted <hi>prudential</hi> for when he was queſtioned con<g ref="char:EOLunhyphen"/>cerning his Doctrine he anſwered<note n="[a]" place="margin">
+                  <hi>John</hi> 18.20.</note> I ſpake openly, or <hi>freely,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 10.</note> 
+               <hi>boldly, plainly,</hi> for ſo the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is often rendred) to the
+<pb n="2" facs="tcp:31242:2"/> World, <hi>I ever taught in the Synagogue and in the Temple, whither the Jews always reſort and in ſecret I have ſaid nothing,</hi> thus did our Saviour really, what is figuratively (but with reſpect to him) ſpoken concerning wiſdom,<note n="[b]" place="margin">
+                  <hi>Pro.</hi> 1.20.21.</note> 
+               <hi>wiſdom cryeth without ſhe ut<g ref="char:EOLhyphen"/>tereth her words in the ſtreets</hi> &amp; this preaching in publick our Sa<g ref="char:EOLhyphen"/>viour maketh to be one great part of doing his Fathers will<note n="[c]" place="margin">
+                  <hi>Pſal.</hi> 40. <hi>v.</hi> 9, 10.</note> I have ſaith he in that Prophetical Pſalm, <hi>preached righteouſneſs in the great congregation; Lo, I have not refrained my lips, O Lord; thou knoweſt I have not hid thy righteouſneſs within my heart I have declared thy faithfulneſs and thy ſalvation, I have not concealed thy loving kindneſs and thy truth from the great congregation.</hi>
+            </p>
+            <p>In order to the fulfilling this Prophecy it is very remarka<g ref="char:EOLhyphen"/>ble that our Saviour began his Miniſtry at that very time, when, and in that very place, where <hi>John</hi> was caſt into Priſon; which circumſtance is obſerved by 2 of the Evangeliſts <hi>after that</hi> John <hi>was caſt into Priſon,</hi> (ſaith Mark)<note n="[d]" place="margin">
+                  <hi>Mark</hi> 1. <hi>v.</hi> 14.</note> 
+               <hi>Jeſus came into</hi> Gali<g ref="char:EOLhyphen"/>lee. (which was under the Juriſdiction and command of <hi>Herod,</hi>
+               <note n="[e]" place="margin">
+                  <hi>Luke</hi> 3. <hi>v.</hi> 19.20.</note> who had newly impriſoned <hi>John, preaching the Goſpel of the Kingdom of God,</hi> and from that time (ſaith <hi>Mat</hi>)<note n="[f]" place="margin">
+                  <hi>Mat.</hi> 4.12.17</note> i. e. From the time of <hi>Johns</hi> Impriſonment <hi>Jeſus began to Preach,</hi> thereby ſhewing in his own example that no danger ſhould diſcourage a Goſpel-Preacher from the diſcharge of his duty.</p>
+            <p>VVhat our Saviour did himſelf he doth likewiſe advise his Diſciples unto and therefore in that very Chapter<note n="[g]" place="margin">
+                  <hi>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 1.10.</note> where he ſent them forth to preach though he directs them to <hi>beware of men</hi>
+               <note n="[h]" place="margin">4, 6.1.7.</note> 
+               <hi>and to be wiſe as Serpents,</hi> yet withall he commands them, to preach publikely, <hi>what I ſay to you</hi> ſaith he, <hi>in the dark do you ſpeak in the light and what you hear in the ear publiſh on the houſe top</hi> and as foreſeeing that the Diſciples might raiſe ſome objections againſt this becauſe of the certain danger and haz<g ref="char:EOLhyphen"/>zard rhat would attend ſuch a practice our Saviour doth no leſs then three times expreſly command them<note n="[a]" place="margin">
+                  <hi>Mat.</hi> 10.26.28.31.</note> 
+               <hi>not to be afraid of them that only kill the body,</hi> whereby mentioning the worſt
+<pb n="3" facs="tcp:31242:2"/> and utmoſt that men can do in a way of oppoſition, he doth ſuf<g ref="char:EOLhyphen"/>ficiently arm his miniſters againſt leſſer difficulties; and to ſhew that he did not, leave the duty of preaching publikely unto his Apoſtles liberty, as a thing they might do or forbear as they pleaſed, he makes it afterwards to be a part of their <hi>confeſſing</hi> him<note n="[b]" place="margin">
+                  <hi>v.</hi> 32</note> which he requireth as an indeſpenſible duty from all his followers; and accordingly when the Apoſtles (after the de<g ref="char:EOLhyphen"/>ſcent of the holy Spirit, upon them) were commanded to be ſi<g ref="char:EOLhyphen"/>lent, by the High Prieſts, and to Preach no more,<note n="[c]" place="margin">
+                  <hi>Act.</hi> 4. <hi>v.</hi> 19.20.</note> in the <hi>Name of Chriſt.</hi>
+            </p>
+            <p>Though the Perſons which injoyned this were their lawful ma<g ref="char:EOLhyphen"/>giſtrates yet they abſolutely refuſed to ſubmit unto them; and upon the account of an Argument, which is ſtill of equal force, <hi>if it be righteous before God,</hi> ſay they, <hi>to obey you rather then God, judge ye, for we cannot but ſpeak the things which we have ſeen and heard;</hi> and afterwards when they aſſembled together,<note place="margin">
+                  <hi>v.</hi> 29.</note> they did not pray, either for the favour of the Magiſtrates, or for wiſdom to conceal themſelves or for their own preſervation; but appeal unto God to be a righteous Judge between their rulers and them; and for themſelvs, do beg nothing but courage to diſcharge their duty, <hi>and now,</hi> ſay they,<note place="margin">
+                  <hi>v.</hi> 31.</note> 
+               <hi>O Lord look upon their threats and give unto thy Servants, that with all boldneſs they may ſpeak thy word;</hi> In which Prayer, is being agreeable to the will of God, they were preſently heard and anſwered, <hi>for they were filled with the Holy Spirit,,</hi> and as an effect thereof <hi>they ſpake the word of God with boldneſs:</hi> The ſame Prayer and for the ſame ends doth the <hi>Apoſtle Paul</hi> deſire the <hi>Epheſians,</hi> to make for him when he was in Priſon <hi>Praying</hi>
+               <note n="[d]" place="margin">
+                  <hi>Eph.</hi> 6.19.20.</note> ſaith he <hi>for me</hi> (not that I may be re<g ref="char:EOLhyphen"/>leaſed from my bonds and ſet at liberty, but) <hi>that utterance may be given to me by the opening of my mouth with boldneſs to make known the Miſtery of the Goſpel, that I may be bold therein, as I ought to ſpeak,</hi> and in his advice to <hi>Timothy</hi> whom he inſtructs as a Pattern of all following Teachers he exhorts him <hi>to ſtir up the gift that was in him</hi> (the meaning of which advice is as he him<g ref="char:EOLhyphen"/>ſelf
+<pb n="4" facs="tcp:31242:3"/> explains it in another place<note n="[a]" place="margin">2 <hi>Time v.</hi> 2</note> 
+               <hi>preach the word be inſtant in ſeaſon, out of ſeaſon reprove, rebuke, exhort, with all manner of long ſuffering and Doctrine;</hi> for which Aſſiduity and diligence in Preaching, he gives a reaſon which holds true and binding in all Ages,<note n="[b]" place="margin">2 <hi>Tim. c.</hi> 1. <hi>v.</hi> 7.8.</note> 
+               <hi>becauſe God hath not given to us</hi> (whether we are believers or preachers) <hi>the ſpirit of fear but of power,</hi> and there<g ref="char:EOLhyphen"/>fore we now, as well as the Apoſtles afore us, <hi>are not to be aſha<g ref="char:EOLhyphen"/>med of the teſtimony of the Lord, but to ſuffer hardſhip with the Goſpel according to the power of God</hi>
+               <note n="[c]" place="margin">2 <hi>Tim.</hi> 2.1.2. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2.</note> 
+               <hi>as good Souldiers of Jeſus Chriſt.</hi>
+            </p>
+            <p>Secondly, another Argument may be taken from the Nature of a <hi>Goſpel Miniſtry,</hi> which, to whomever it is committed, is to be looked upon as an <hi>office, a ſtewardſhip</hi> and to be managed as a <hi>truſt,</hi> for a faithful diſcharge of which they are to be ſtrictly accountable<note n="[d]" place="margin">
+                  <hi>Cor.</hi> 4. <hi>c.</hi> 1.2.</note> 
+               <hi>Let a Man.</hi> (i. e. let every one) <hi>ſo account of us</hi> (ſaith the Apoſtle <hi>Paul,</hi> meaning himſelf and other Preachers of the Goſpel in his time) <hi>as Miniſters of Chriſt and ſtewards of the Miſteries of God;</hi> now as the ſame Apoſtles adds <hi>what is requi<g ref="char:EOLhyphen"/>red of ſtewards, is that they be found faithful;</hi> but to be <hi>faithfull,</hi> is not to lay up our Lords Money, but to lay it out, and to Trade with it for our Maſters advantage; thus are we all commanded to deal with <hi>ſpiritual gifts</hi>
+               <note n="[e]" place="margin">
+                  <hi>Pet.</hi> 1.4. <hi>v.</hi> 10.</note> 
+               <hi>every one as he hath received a gift Miniſter thereof to one another as good ſtewards of the manifold grace of God;</hi> and this the Apoſtle <hi>Paul</hi> makes to be his warrant and apology why he was ſo laborious and conſtant in preach<g ref="char:EOLhyphen"/>ing<note n="[f]" place="margin">1 C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. c. <hi>9.</hi> v. <hi>16.17.</hi>
+               </note> 
+               <hi>for</hi> ſaith he <hi>if I Preach the Goſpel, I have nothing to boaſt off, becauſe a neceſſity lyeth upon me; yea there is a woe unto me if I preach not the Goſpel, becauſe I am intruſted with a ſtewardſhip. As Moſes was faithfull in all Gods houſe,</hi> which is mentioned by God him<g ref="char:EOLhyphen"/>ſelf<note n="[g]" place="margin">
+                  <hi>Nu.</hi> 12. <hi>v.</hi> 7.</note> and afterwards repeated by the Apoſtle as his higheſt commendation; ſo are all thoſe to be, whom God hath been pleaſed to honour with calling them to be his Servants in that work, then not their own eaſe, ſafety or Proffit, but their Maſters honour and intreſt is to be conſulted by them, which
+<pb n="5" facs="tcp:31242:3"/> none can faithfully attend, who either ſloathfully impriſon their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight or cowardly deſert their ſtation.</p>
+            <p>Thirdly,<note place="margin">R. 3.</note> another Argument may be taken from the nature of <hi>Preaching gifts,</hi> which increaſe by uſing; they are like the <hi>Widdows Oyl,</hi> which while it ſtood in the Veſſel had no increaſe, but mul<g ref="char:EOLhyphen"/>tiplyed, as it was pouring out: Grain in the floor doth not inrich the earth, but when it is Sown, it proſpers to an Harveſt: as a ſpring if you ſtop its Current will preſently be choaked up; or a fire when you leave off blowing goes out; ſo is it with ſpiritu<g ref="char:EOLhyphen"/>al gifts, which in this reſpect as well as others are compared to Fire and Water, becauſe they muſt be kept up in a continual exerciſe or elſeweare in danger of loofing them<note n="[a]" place="margin">1 <hi>Cor.</hi> 12. <hi>v.</hi> 7.</note> 
+               <hi>the mani<g ref="char:EOLhyphen"/>feſtation of the Spirit,</hi> (i. e. that gift whatever it is whereby the Spirit of God doth manifeſt it ſelf to act in any) <hi>is given to proffit</hi> (not our ſelves principally but others) <hi>withall:</hi> and therefore we are commanded<note n="[b]" place="margin">
+                  <hi>c.</hi> 14.12.</note> to <hi>excel that we may benefit the Church,</hi> which end when it is not religiouſly deſigned, and attended to we may fear that our <hi>talent ſhall be taken away, as it was from the evil and the ſloathful ſervant,</hi> whereas he that uſeth what he hath received hath the promiſe of a Bleſſing,<note n="(c)" place="margin">
+                  <hi>Mat.</hi> 25. <hi>v.</hi> 28.</note> and <hi>ſhall be made to abound</hi> and ſo much the more as he goeth through greater difficulties in the exerciſe and imployment of his Talent.</p>
+            <p>Laſtly ſince our Lord Chriſt hath called all ſuch,<note place="margin">R. 4.</note> as are truly Goſpel Miniſters, unto that work, and hath promiſed to be with them and to aſſiſt them in it, there can be nothing more diſho<g ref="char:EOLhyphen"/>nourable to his power and authority then to decline any part of the Duty we owe to him, for fear of men; for our Lord is <hi>a great King,</hi> &amp; as he is able to defend, ſo he hath promiſed that he will amply reward all his faithful ſervants; <hi>he knows all our works</hi>
+               <note n="[d]" place="margin">
+                  <hi>Rev.</hi> 2.10.</note> and who they are that <hi>call themſelves Jews</hi> or <hi>Chriſtians that are not ſuch</hi> but rather the <hi>Synagogue of Sathan,</hi> it is from ſuch as theſe, <hi>nominal Chriſtians</hi> but <hi>real Devils,</hi> that all our ſuffe<g ref="char:EOLhyphen"/>rings in <hi>the laſt days</hi> are to be expected, who make uſe of the <hi>name
+<pb n="6" facs="tcp:31242:4"/> and of the form of godlineſs</hi> with the greater dexterity, and advan<g ref="char:EOLhyphen"/>tage to oppoſe and perſecute the <hi>power of it;</hi> and yet even theſe he hath commanded us <hi>not to fear,</hi> though they may prevail to de<g ref="char:EOLhyphen"/>liver us into Priſons and unto death, yet we are not to fear any <hi>of theſe things we may ſuffer,</hi> becauſe our Lord Chriſt <hi>who was dead, now lives for ever,</hi> and well give all his witneſſes <hi>a Crown of Life.</hi> In expectation of which recompence we ſhould daily try<g ref="char:EOLhyphen"/>umph and rejoyce, whereas to do or forbear doing any thing, in religious concernments, meerly that we may avoid perſecutions, argues a poor, low, and ungoſpellike Spirit; as the Apoſtle ob<g ref="char:EOLhyphen"/>ſerves in thoſe <hi>Conformiſts</hi> in his time, who preached up <hi>Cir<g ref="char:EOLhyphen"/>cumciſion and legal Ceremonies</hi> he ſaith they did it meerly,<note n="[a]" place="margin">
+                  <hi>Gal.</hi> 6. <hi>v.</hi> 12.14.</note> that <hi>they might not be perſecuted with the Croſs of Christ</hi> whereas were we Chriſtians indeed we ſhould as he profeſſeth he did <hi>glory in nothing more then the Croſs of Chriſt</hi> and in our <hi>Conformity</hi> to that by which the World would be crucified to us, and we unto the Terrors and allurements of the World: And ſo much to the firſt Queſtion.</p>
+            <p>The ſecond Queſtion is, <hi>whether believers in order to the more ſolemn ſerving of God,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>
+               </label> 
+               <hi>and their mutual edification, are bound to continue their aſſembling together, when the civil Magistrate doth expreſsly prohibit ſuch kind of meetings;</hi> this queſtion, though it may ſeem ſufficiently decided by the anſwer given unto the o<g ref="char:EOLhyphen"/>ther, for if it be the duty of Miniſters to preach, it muſt neceſſari<g ref="char:EOLhyphen"/>ly follow that it is the peoples duty to hear; i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Shepherd,</hi> to the utmoſt hazard of his Life, muſt go before; then certainly the <hi>ſheep</hi> muſt follow after, and hearken to his voice, yet becauſe of thoſe diſtinctions and ſhifts which carnal fear hath found out, un<g ref="char:EOLhyphen"/>der the notion of chriſtian prudence I ſhall ſpeak more fully for the affirming of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label> Firſt. The Apoſtle doth expreſly command that <hi>Believers ſhould not forſake</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>aſſembling or gathering together into one place</hi> (as the Greek word properly ſignifies) <hi>but be day<g ref="char:EOLhyphen"/>ly admoniſhing one another and ſo much the more as they ſaw the day</hi>
+               <g ref="char:punc">▪</g>
+               <pb n="7" facs="tcp:31242:4"/> (i. e. the evil day of perſecution and diſtreſs, approaching<note n="(a)" place="margin">
+                  <hi>Heb.</hi> 10. <hi>v.</hi> 25.</note> where he is ſo far from making the perſecution then coming upon them (of which he ſpeaketh and againſt which, he incou<g ref="char:EOLhyphen"/>rageth them in the following chapter) to be a motive for the forbearing of meetings; that he uſeth it, as an argument to quicken them unto greater diligence and frequency therein; and according to this command ſo was the Practice of the Pri<g ref="char:EOLhyphen"/>mitive Chriſtians, for as ſoon as ever they were converted they did not think it ſufficient to keep their Religion to themſelves, and to ſerve God in private but<note n="(b)" place="margin">
+                  <hi>Act.</hi> 2 42.</note> 
+               <hi>Continued constant unto the Teaching and fellowſhip of the Apostles,</hi> and that not only before but after the Apoſtles were by publick authority ſilenced,<note n="(c)" place="margin">
+                  <hi>Act.</hi> 5. <hi>v.</hi> 12.13.</note> for then all (i. e. all the converts) <hi>were with one accord toge<g ref="char:EOLhyphen"/>ther in Solomons Porch,</hi> which congregating together is made a diſtinctive note and Character of a true Diſciple, for it <hi>is ſaid of the reſt,</hi> (who were not Diſciples) <hi>no man durſt joyn himſelf un<g ref="char:EOLhyphen"/>to them.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg </seg>2</label>
+            </p>
+            <p>Secondly, By aſſembling themſelves, thus in time of perſecution our Lord Chriſt is greatly honoured for hereby we give an evidence that we confeſs and are not aſha<g ref="char:EOLhyphen"/>med of him, which is a thing he doth very often expreſly call for and he takes eſpecial notice who they are in defiling and dan<g ref="char:EOLhyphen"/>gerous times that keep conſtantly and meet often together to ſerve him, the place in <hi>Malachy</hi>
+               <note n="(d)" place="margin">
+                  <hi>Mal.</hi> 3.16,</note> is well known and for this we find he commends the <hi>Church of Pergamus</hi>
+               <note n="(e)" place="margin">
+                  <hi>Rev.</hi> 2.13.</note> I know ſaith he <hi>thy works and where thou dwelleſt where Sathnn hath his Throne,</hi> (by which is meant the perſecuting Heathen Magiſtrate who had there his reſidence and publiſhed his Deviliſh Decrees) <hi>and thou holdeſt faſt my Name; and haſt not denyed my Faith,</hi> and be<g ref="char:EOLhyphen"/>cauſe ſeparation from all ſuch Churches, or Aſſembly's, which call themſelvs Jews or Chriſtiens, and are not doth neceſſarily draw perſecution along with it, therefore doth he command in the ſame Chapter all thoſe whom he foreſaw were likely <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be thrown into Priſon, and there exerciſed with many tryals not to fear; becauſe he laid there ſufferings to heart; and that
+<pb n="8" facs="tcp:31242:5"/> conſtancy which did ſo viſibly redound to his honour he would not fail fully to reward: in backſliding times the love o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt to the ſtrict ways of holineſs <hi>doth wax cold,</hi> and proportion<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bly their Hatred againſt true profeſſors and followers of it, doth increaſe and then God ſeems to ſay as <hi>Moſes</hi> did to the rev<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed Iſrae<g ref="char:EOLhyphen"/>lites<note n="(a)" place="margin">
+                  <hi>Ex.</hi> 32.26.</note> 
+               <hi>Who is on my ſide;</hi> let them come together and ſhew themſelves; for the <hi>Saints</hi> are ſaid to be <hi>the glory of Chriſt,</hi>
+               <note n="(b)" place="margin">
+                  <hi>Cor.</hi> 8: 2.3.</note> and that eſpecially in the <hi>Church Aſſemblys,</hi> which is meant by the prophet when he ſaith upon all the Glory <hi>i. e.</hi> upon all the <hi>aſſemblies of Sion,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 4. <hi>v.</hi> 5.</note> 
+               <hi>or of the true Church ſhall be a defence,</hi> and all their ſufferings which may befal them, for ſuch well doing, are ordered on purpoſe by Chriſt that in the iſſue he may have glory by them,<note place="margin">
+                  <hi>Cor.</hi> 4.11.</note> for we, ſaith the Apoſtle <hi>Paul are alwayes deli<g ref="char:EOLhyphen"/>vered up unto death, for the ſake of Jeſus, that the life</hi> (i. e. the living power) <hi>of Jeſuss may be manifeſted in our mortal fleſh</hi> and ſo the Apoſtle <hi>Peter</hi> to the ſame purpoſe<note n="(e)" place="margin">1 <hi>Pet.</hi> 1.6.7.</note> 
+               <hi>now if need be you are put to ſorrow by divers temptations that the tryall of your faith may be found to honour and praiſe and glory, at the Revelation of Jeſus Chriſt,</hi>
+               <note place="margin">
+                  <hi>c.</hi> 4. <hi>v.</hi> 13.</note> and again in another place <hi>in as much as ye are partakers in the ſuffering of Chriſt rejoyce that at the Revelation of his Glory, ye may joy with exceeding gladneſs becauſe then the Spirit of God, and of glory doth reſt upon you and on your par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is glorified.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label> Thirdly, This is the beſt way to convince and ſilence the gain-ſaying and contradicting World, and likewiſe put to ſhame thoſe falſe and pretended brethren, who (as the Apoſtle ſpeaks in the caſe of circumciſion) would have us to forbear meetings meerly<note n="(f)" place="margin">
+                  <hi>Gal.</hi> 6.13.</note> that <hi>they may glory in our fleſh,</hi> and tryumph in our fear and cowardiſe; <hi>as when the Centurion</hi> ſaw the <hi>Earth<g ref="char:EOLhyphen"/>quake</hi> and the dreadful <hi>Eclipſe</hi> at our Saviours death, and above all when he heard his voice with ſo much ſecurity and confi<g ref="char:EOLhyphen"/>dence committing himſelf to God, he preſently cryed out<note n="(g)" place="margin">
+                  <hi>Mat.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.44.</note> 
+               <hi>aſſuredly this man was the Son of God,</hi> ſo when hypocritical pro<g ref="char:EOLhyphen"/>feſſors and worldly ſpirited oppoſers do ſee the courage and conſtancy of the Saints in keeping together, though Earth<g ref="char:EOLhyphen"/>quakes
+<pb n="9" facs="tcp:31242:5"/> and Tumults are round about them, they will then be forced to acknowledge that they are the ſincere worſhippers of the <hi>true God;</hi> as<note n="(a)" place="margin">
+                  <hi>Dan.</hi> 3.28.29</note> 
+               <hi>Nebuchadnezzar</hi> did concerning the 3 <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> who boldly diſobeyed his impious decree, and <hi>Darius</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Daniel,</hi> who would not omit the circumſtance of ha<g ref="char:EOLhyphen"/>ving his <hi>windows open</hi> when he prayed, notwithſtanding the Law againſt it. It is in General the end of all <hi>Chriſtian meetings</hi> to convince <hi>Unbelievers,</hi> and to bring them to confeſs that<note n="(b)" place="margin">1 <hi>Cor.</hi> 14. <hi>v.</hi> 24.25.</note> God is in us <hi>of a truth,</hi> but to meet for the Worſhip of God, only when the men of the World do give us leave, muſt needs make them think that we are in all reſpects like themſelves, and that our Religion ſtands in need of their countenance and favour to uphold it; <hi>But</hi>
+               <note n="(c)" place="margin">Phil. c. <hi>1.</hi> v. <hi>2.</hi>
+               </note> 
+               <hi>to hold forth</hi> (or as the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſig<g ref="char:EOLhyphen"/>nifieth <hi>to hold up on high) the word of truth,</hi> as a light, when the ſtorm and wind is blowing in our faces; to keep out in our ſhip at Sea, in the midſt of a tempeſt without ſeeking for ſhelter in ſome obſcure and ignoble harbour, it will draw the eyes of Unbelievers towards us, and make them confeſs that<note n="(d)" place="margin">1 <hi>Joh.</hi> 44.6.</note> 
+               <hi>ano<g ref="char:EOLhyphen"/>ther Spirit</hi> acts in us then acts in them; which <hi>Spirit</hi> is the proper principle of a Believer, not only that with conſtitutes and makes him one, but which doth vvholly difference him from the men of the World.</p>
+            <p>Fourthly, the more dangerous and diſtreſſing the day is, the <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>4</label> more need have we of all manner of helps to quicken and incou<g ref="char:EOLhyphen"/>rage us; and therefore aſſembling is moſt neceſſary in perſecuting times; as in Winter we kindle greater fires, and in dark Nights light up more Candles, ſo in the ſharp Weather of perſecution we ſhould get moſt of all together that we may keep one ano<g ref="char:EOLhyphen"/>ther warm; the Apoſtle <hi>Paul</hi> though animated by frequent viſi<g ref="char:EOLhyphen"/>ons <hi>yet</hi>
+               <note n="(e)" place="margin">
+                  <hi>Acts</hi> 28.25.</note> 
+               <hi>when he ſaw the Brethren</hi> in his Journey to <hi>Rome he took new courage.</hi> We ſtand in our preſent frail compoſition of fleſh &amp; blood ſo related and indeared to one another, that oftentimes the company even of thoſe that are inferiour in Grace unto our ſelves, doth prove a very great ſtrengthning, and therefore <hi>Gideon</hi>
+               <pb n="10" facs="tcp:31242:6"/> though acknowledged by God himſelf to be a <hi>Mighty Man of Valour,</hi> and who had newly had 2 ſignall Miracles to confirm him, yet being afraid to go down alone into the Camp of the <hi>Miaianites,</hi> he is commanded by God<note n="(f)" place="margin">
+                  <hi>Jud.</hi> 1.9.10.</note> 
+               <hi>to take his Servant Ru<g ref="char:EOLhyphen"/>rah with him,</hi> and our Saviour himſelf, when he was<note n="(a)" place="margin">
+                  <hi>Mat.</hi> 26. <hi>v.</hi> 38.</note> in his laſt and greateſt agony, requeſts his Diſciples to tarry and to watch with him, as it were to relieve him with their Society and Sym<g ref="char:EOLhyphen"/>pathy; Thus the Apoſtle <hi>Paul</hi> after all his Revelations and Rap<g ref="char:EOLhyphen"/>tures, frequently deſires thoſe unto whom he writes,<note n="(b)" place="margin">
+                  <hi>Rom.</hi> 15.30.31.</note> 
+               <hi>to be very earneſt in their prayers unto God for him,</hi> and when <hi>Titus</hi> and <hi>Timothy,</hi> came to him from <hi>Maeedonia</hi> it was ſuch a Revival to him that it is obſerved how he was upon it,<note n="(c)" place="margin">
+                  <hi>Acts</hi> 18. <hi>v.</hi> 5.</note> 
+               <hi>ſtreightned in Spi<g ref="char:EOLhyphen"/>rit,</hi> and teſtified to the Jews that Jeſus was the Chriſt; the coming of 2 ſuch dear Friends, made the holy Apoſtle to recollect all his inward powers and vvith a redoubled vehemence and intenti<g ref="char:EOLhyphen"/>on to perform his Miniſtry. And therefore to neglect the aſſiſtance which the ſeeing of one anothers faces, and hearing one ano<g ref="char:EOLhyphen"/>thers words, may help to bring us in times of diſtreſs, this is on<g ref="char:EOLhyphen"/>ly to betray our ſelves, and to throw away our ſuccours, when we ſtand moſt in need of them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>5</label> Laſtly when the Saints meet together in obedience to the command and will of God they have a more immediate title to his protection, it is <hi>upon the Glory,</hi> that is, upon the <hi>publick aſſem<g ref="char:EOLhyphen"/>blies of Sion,</hi> that the <hi>defence</hi> is promiſed to be; the whole <hi>World,</hi> which <hi>lyeth in</hi> evil (or rather in <hi>the evil one</hi>) is a kind of a waſt, a wilderneſs, in which the Devil walks &amp; rules; but the Church is a <hi>Garden incloſed</hi> and God himſelf hath promiſed to VVater and Fence it<note n="(d)" place="margin">
+                  <hi>Iſa.</hi> 26. <hi>v.</hi> 3.</note> and therefore whoever <hi>touch</hi> it in an Ho<g ref="char:EOLhyphen"/>ſtile and violent manner are in certain danger of being ruined and deſtroyed themſelves;<note n="(e)" place="margin">
+                  <hi>Pſal.</hi> 105. <hi>v.</hi> 15.</note> when the Saints of old were <hi>out few in number and in</hi> a wandering condition <hi>God would not then ſuffer even Kings</hi> to hurt them, for nor Kings as ſome dully expound that text but the ſaints are <hi>Gods anointed ones,</hi> for whom he ca<g ref="char:EOLhyphen"/>reth; and if he would not ſuffer them to be wronged, when they
+<pb n="11" facs="tcp:31242:6"/> vvere but few, much leſs will he permit it when they are many and united: the Iſrael of God, and ſuch are all <hi>true worſhippers,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be waſted without the inevitable overthrow of all their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, becauſe God himſelf hath promiſed to be<note n="(f)" place="margin">
+                  <hi>Zach.</hi> 2.5.8.</note> a Wall of fire, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nd about them,</hi> nay oftentimes thoſe Wolves and Beaſts of p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y vvho ſought to devour them, are ſo far diſappointed, that God hath promiſed to ſtrengthen his deſpiſed people, <hi>to return their recompence upon their heads,</hi> and to execute his Vengeance upon them; thus God threatheth <hi>Edom,</hi> who was a fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe and cruel Brother unto Iſrael<note n="(g)" place="margin">
+                  <hi>Ez<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 25. <hi>v.</hi> 14.</note> I <hi>will lay my vengeance upon</hi> Edom, <hi>by the hand of my people Iſrael, and they ſhall do in</hi> Edom <hi>according to my anger, and according to my fury, and they ſhall know my venge<g ref="char:EOLhyphen"/>ance;</hi> our Lord Chriſt amongſt other ſtiles of care and affection is called <hi>the Shepherd of his people,</hi> and his Sheep are likely to have moſt of his care, and eye, when they are moſt together; to be ſcattered is a great Judgement, and is oftentimes threatned as one, for it makes us lyable to become a prey unto any that is de<g ref="char:EOLhyphen"/>ſirous to take us; and therefore let none by any act of theirs, in withdrawing from their Folds &amp; proper reſting places, ſeem willing to put themſelvs into that condition; <hi>but wait on the Lord and keep his way,</hi>
+               <note n="(a)" place="margin">
+                  <hi>Pſal</hi> 37. <hi>v.</hi> 34</note> and then they may comfortably expect what follows <hi>that the Lord will exalt them to inherit the earth &amp; when the wicked are cut off they ſhall ſee it,</hi> nay perhaps God will ho<g ref="char:EOLhyphen"/>nour them to be his Inſtruments therein; or this is promiſed as an honour to all his Saints, Pſal. 149. And ſo much for the ſecond Queſtion.</p>
+            <p>
+               <hi>There remains a Third Queſtion, and that is,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt, </seg>3</label> whether upon the Ba<g ref="char:EOLhyphen"/>niſhment, Impriſonment or death of the faithful and ſuffering preachers of the Goſpel, others who in their very entrance into the Miniſtry do ſubſcribe themſelves the unfeigned Servants of Men are to be heard, <hi>but this is of ſo eaſie a ſolution that whoever are rightly ſatisfied about the</hi> 2 <hi>former may eaſily reſolve themſelves
+<pb n="12" facs="tcp:31242:7"/> and were but undue fear, and carnal prudence a little farther remo<g ref="char:EOLhyphen"/>ved from us; we ſhould ſcarce ever diſpute whether thoſe that have ta<g ref="char:EOLhyphen"/>ken a falſe Oath, and renounced a true one,</hi> vvere once to be ovvn<g ref="char:EOLhyphen"/>ed by us as Miniſters of Chriſt, <hi>or as ſuch ought to be attended; to our Lord Chriſt never ſent any to preach his Goſpel, upon ſuch wretched and unworthy terms; and if</hi> Chriſt ſent them not <hi>they are to be accounted of by us as</hi> ſtrangers, <hi>who ſhall pay dearly for their preſump<g ref="char:EOLhyphen"/>tuous and unwarrantable intruſion.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
